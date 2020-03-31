@@ -15,7 +15,7 @@ Comment: Without Class Imbalance Correction and Slight Class Imbalance have simi
   <img src="https://github.com/dagrate/classimbalance/blob/master/plots/extreme.png" width="800"/>
 </p>
 
-## With Slight Class Imbalance
+## With Small Class Imbalance
 
 <p align="middle">
   <img src="https://github.com/dagrate/classimbalance/blob/master/plots/slight.png" width="800"/>
