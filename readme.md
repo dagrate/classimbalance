@@ -2,7 +2,7 @@
 
 **Objective**: show the impact of the class imbalance on the features importance  <br>
 
-**Comment**: Without Class Imbalance Correction and Slight Class Imbalance have similar feature importance albeit not identical and the roc auc score for both is close. Extreme class imbalance leads to significant different feature importance with a model that does not outperform a random guess (roc auc score = 0.5)
+**Comment**: Experiments "Without Class Imbalance Correction" and "Slight Class Imbalance" have similar features importance, albeit not identical, and the roc auc score for both is close. Experiment "Extreme Class Imbalance" leads to significant different features importance with a model that does not outperform a random guess (roc auc score = 0.5)
 
 ## Without Class Imbalance Correction
 
