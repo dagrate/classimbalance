@@ -10,14 +10,14 @@
   <img src="https://github.com/dagrate/classimbalance/blob/master/plots/without.png" width="800"/>
 </p>
 
-## With Extreme Class Imbalance
-
-<p align="middle">
-  <img src="https://github.com/dagrate/classimbalance/blob/master/plots/extreme.png" width="800"/>
-</p>
-
 ## With Small Class Imbalance
 
 <p align="middle">
   <img src="https://github.com/dagrate/classimbalance/blob/master/plots/slight.png" width="800"/>
+</p>
+
+## With Extreme Class Imbalance
+
+<p align="middle">
+  <img src="https://github.com/dagrate/classimbalance/blob/master/plots/extreme.png" width="800"/>
 </p>
